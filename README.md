@@ -88,13 +88,23 @@ I-am f-hnv@github
     <hr width="100%">
     <div>
         <h3 align="center"> 🥰 Conecta conmigo:</h3>
-        <!-- Tarjeta de Discord -->
-        <p align="center">
-            <a href="https://discordapp.com/users/346717766511886336" target="_blank">
-                <img src="https://lanyard-profile-readme.vercel.app/api/346717766511886336?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000" alt="Mi Discord">
-            </a>
-        </p>
-        <!-- Redes Sociales -->
+        <!-- Discord centrado con GIFs a los lados -->
+        <table align="center" style="background-color: transparent; border: none;">
+          <tr>
+            <td align="center" valign="middle">
+              <img width="220" alt="umbreon" src="https://github.com/user-attachments/assets/f96bb119-cc75-435a-a276-cdeb2b5c35f2" />
+            </td>
+            <td align="center" valign="middle">
+              <a href="https://discordapp.com/users/346717766511886336" target="_blank">
+                  <img src="https://lanyard-profile-readme.vercel.app/api/346717766511886336?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000" alt="Mi Discord">
+              </a>
+            </td>
+            <td align="center" valign="middle">
+              <img width="220" alt="gif" src="https://github.com/user-attachments/assets/c4ae7fc4-0abb-46ad-a8ec-5319d69abd70" />
+            </td>
+          </tr>
+        </table>
+        <!-- Redes Sociales debajo -->
         <p align="center">
             <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
             <a href="mailto:felipeandreshenriquez2004@gmail.com" target="_blank">
@@ -113,3 +123,5 @@ I-am f-hnv@github
         </p>
     </div>
 </div>
+
+

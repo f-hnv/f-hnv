@@ -24,7 +24,9 @@ I-am f-hnv@github
 🎵 I love music like pop,rap and kpop
 ```
 <hr>
-### 👨🏽‍💻 Workspace
+
+#### 👨🏽‍💻 Workspace
+
 <p>
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -86,7 +88,7 @@ I-am f-hnv@github
 <div>
     <hr width="100%">
     <div>
-        <h3 align="center"> 🥰 Conecta conmigo:</h3>
+        <h3 align="center"> Conecta conmigo:</h3>
         <!-- Discord centrado con GIFs a los lados -->
         <table align="center" style="background-color: transparent; border: none;">
           <tr>

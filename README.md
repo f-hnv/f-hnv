@@ -14,15 +14,14 @@ Hi, I'm Felipe Araya!
 ```
 I-am f-hnv@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 Hola soy estudiante de ingenieria en informatica y tengo conocimientos de Full Stack  y Machine Learning 
+📚 Estoy estudiando ingenieria en informatica con mencion a data science en el instituto DuocUC
+📝 Tengo un fuerte interes en la Ciencia de Datos, CyberSeguridad y la inteligencia artificil
+🔭 Actualmente me encuentro solo estudiando 
+🌱 Aprendiendo mas cosas sobre la Ciencia de datos y la manipulacion de datos
+🌟 Main languages: Python, Java
+🚩 Interested in Full Stack Machine Learning Application development and Data Science
+🎵 I love music like pop,rap and kpop
 ```
 <hr>
 ### 👨🏽‍💻 Workspace

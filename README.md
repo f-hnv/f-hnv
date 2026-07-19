@@ -77,6 +77,16 @@ I-am f-hnv@github
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/f-hnv/kbeauty-recommender.git">
+        <img width="260" src="https://gh-card.dev/repos/f-hnv/kbeauty-recommender.svg" alt="kbeauty-recommender" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=f-hnv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

@@ -7,8 +7,9 @@ Hi, I'm Felipe Araya!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;CyberSecurity%20|%20AI%20 Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/user-attachments/assets/b8c6f10d-1a9b-40c4-8bc0-f68873cb9f12" width="320" />
 <hr>
+
 
 ```
 I-am f-hnv@github

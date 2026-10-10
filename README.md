@@ -20,7 +20,7 @@ I-am f-hnv@github
 🌱 Aprendiendo mas cosas sobre la Ciencia de datos y la manipulacion de datos
 🌟 Main languages: Python, Java
 🚩 Interested in Full Stack Machine Learning Application development and Data Science
-🎵 I love music like pop,rap and kpop
+🎵 I love music like pop,R&B,rap and kpop
 ```
 <hr>
 

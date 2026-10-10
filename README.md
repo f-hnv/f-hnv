@@ -70,26 +70,48 @@ I-am f-hnv@github
 
 <table>
   <tr>
+    <!-- Fila 1 -->
     <td align="center">
       <a href="https://github.com/AMunozPSo/SCY1101-CarSeats">
         <img width="260" src="https://gh-card.dev/repos/AMunozPSo/SCY1101-CarSeats.svg" alt="SCY1101-CarSeats" />
       </a>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center">
-      <a href="https://github.com/f-hnv/kbeauty-recommender.git">
+      <a href="https://github.com/f-hnv/kbeauty-recommender">
         <img width="260" src="https://gh-card.dev/repos/f-hnv/kbeauty-recommender.svg" alt="kbeauty-recommender" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Fila 2 -->
+    <td align="center">
+      <a href="https://github.com/AMunozPSo/Clinica-Nutricional-NutriVida">
+        <img width="260" src="https://gh-card.dev/repos/AMunozPSo/Clinica-Nutricional-NutriVida.svg" alt="Clinica-Nutricional-NutriVida" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AMunozPSo/Proyecto-DSY1105-SanaEsencia">
+        <img width="260" src="https://gh-card.dev/repos/AMunozPSo/Proyecto-DSY1105-SanaEsencia.svg" alt="Proyecto-DSY1105-SanaEsencia" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Fila 3 -->
+    <td align="center">
+      <a href="https://github.com/AMunozPSo/SCY1101-Neo-Evaluacion">
+        <img width="260" src="https://gh-card.dev/repos/AMunozPSo/SCY1101-Neo-Evaluacion.svg" alt="SCY1101-Neo-Evaluacion" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/f-hnv/ActividadMachineLearning">
+        <img width="260" src="https://gh-card.dev/repos/f-hnv/ActividadMachineLearning.svg" alt="ActividadMachineLearning" />
       </a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d3055f26-324a-4ae8-bafe-63a4e0b1260d" width="150" />
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/d3055f26-324a-4ae8-bafe-63a4e0b1260d" width="200" />
 </p>
 
 
